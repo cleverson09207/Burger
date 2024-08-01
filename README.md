@@ -5,3 +5,7 @@
 <p>Map: Usado para aplicar 10% de desconto dos itens.</p>
 <p>Reduce: Usado para fazer a soma de todos os itens.</p>
 <P>Filter: Usado para filtrar os itens, fazendo com que aparecesse apenas os itens veganos.</P>
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"  alt="css-logo" />
+<img src="https://img.shields.io/badge/JavaScript-239120?&style=for-the-badge&logo=JS&logoColor=white"  alt="JavaScript-logo" />
+<img src= "img/Captura de tela 2024-08-01 094626.png">
