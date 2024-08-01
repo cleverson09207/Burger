@@ -15,8 +15,6 @@ function showAll(productArray) {
                     <p>${product.name}</p>
                     <p class="item-price">R$ ${product.price}</p>
                 </li> 
-                
-                
                 `
         })
 
@@ -34,7 +32,7 @@ function mapAllItems() {
 
 function sumAllItems() {
         const totalValue = menuOptions.reduce((acc, curr) => acc + curr.price, 0)
-        list.innerHTML =  `
+        list.innerHTML = `
                 
         <li>
             <p>O valor total dos itens é R$ 253</p>
@@ -44,7 +42,7 @@ function sumAllItems() {
 }
 
 
-function filterAllItems(){
+function filterAllItems() {
         const filterJustVegan = menuOptions.filter((product) => product.vegan)
         showAll(filterJustVegan)
 }
