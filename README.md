@@ -8,4 +8,7 @@
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"  alt="css-logo" />
 <img src="https://img.shields.io/badge/JavaScript-239120?&style=for-the-badge&logo=JS&logoColor=white"  alt="JavaScript-logo" />
-<img src= "img/Captura de tela 2024-08-01 094626.png">
+<img src= "img/Captura de tela 2024-08-01 101059.png">
+<img src= "img/Captura de tela 2024-08-01 101119.png">
+<img src= "img/Captura de tela 2024-08-01 101129.png">
+<img src= "img/Captura de tela 2024-08-01 101142.png">
